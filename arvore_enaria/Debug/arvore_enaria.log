@@ -1,0 +1,2 @@
+﻿  arvorizinha.cpp
+C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(13): error C4700: uninitialized local variable 'mau' used
