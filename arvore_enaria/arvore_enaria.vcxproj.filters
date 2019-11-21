@@ -18,5 +18,8 @@
     <ClCompile Include="arvorizinha.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Arvorizinha.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
