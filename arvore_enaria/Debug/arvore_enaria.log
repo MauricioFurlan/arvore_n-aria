@@ -1,9 +1,3 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (arvore_enaria.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   arvorizinha.cpp
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(22,22): error C3863: array type 'DATA_NEW' is not assignable
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(33,24): error C2664: 'no *NewNo(char [])': cannot convert argument 1 from 'char' to 'char []'
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(33,20): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(18,5): message : see declaration of 'NewNo'
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(38,30): error C2664: 'no *Initialize(char [])': cannot convert argument 1 from 'int' to 'char []'
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(38,26): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
-C:\Users\mauricio.furlan\source\repos\arvore_enaria\arvore_enaria\arvorizinha.cpp(26,5): message : see declaration of 'Initialize'
+  arvore_enaria.vcxproj -> C:\Users\mauricio.furlan\source\repos\arvore_enaria\Debug\arvore_N.exe
